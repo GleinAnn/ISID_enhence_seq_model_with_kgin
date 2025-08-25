@@ -1,4 +1,4 @@
-# ISID_enhence_seq_model_with_kgin
+# MIWAI_enhence_seq_model_with_kgin
 
 Recommender systems play a crucial role in helping users navigate the vast amount of digital content. While sequential recommendation models (e.g., SASRec, BERT4Rec, FEARec) effectively capture temporal user behaviors, they often lack semantic context that could enrich or explain preferences. Knowledge Graphs (KGs) provide this missing piece by modelling items, entities, and relations, but integrating them with sequential models remains challenging.
 
