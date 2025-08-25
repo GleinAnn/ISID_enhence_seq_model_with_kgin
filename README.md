@@ -10,3 +10,5 @@ Key Features:
 - Explainability: Provides interpretable insights via intent–relation patterns and semantic paths.
 
 Dataset: https://drive.google.com/drive/folders/1s1tWk_Ha7x9xk1BELCtz3dRN3aCsu1aV?usp=drive_link
+
+Authors: Thanh-Tu Luong, Quoc-Anh Tran, Duy-Hoang Tran, Ngoc-Minh-Chau Nguyen
