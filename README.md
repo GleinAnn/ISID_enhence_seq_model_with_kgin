@@ -9,6 +9,7 @@ Key Features:
 - Improved performance: Outperforms baseline sequential recommenders on benchmark datasets (MovieLens, Amazon-Books, LastFM-1b).
 - Explainability: Provides interpretable insights via intent–relation patterns and semantic paths.
 
-Dataset: https://drive.google.com/drive/folders/1s1tWk_Ha7x9xk1BELCtz3dRN3aCsu1aV?usp=drive_link
+Datasets: https://drive.google.com/drive/folders/1s1tWk_Ha7x9xk1BELCtz3dRN3aCsu1aV?usp=drive_link
+Models: https://drive.google.com/drive/folders/1nhERVvNH4kB90OnrwQEMQABYDVzo9-G6?usp=sharing
 
 Authors: Thanh-Tu Luong, Quoc-Anh Tran, Duy-Hoang Tran, Ngoc-Minh-Chau Nguyen
